@@ -1,0 +1,11 @@
+{
+    "projects": [{
+        "name": "SimpleTactJetton",
+        "path": "./sources/contracts/simple_tact_jetton.tact",
+        "output": "./sources/output",
+        "options":{
+            "debug": true
+        }
+        
+    }]
+}
